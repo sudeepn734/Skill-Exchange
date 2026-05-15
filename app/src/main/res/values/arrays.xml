@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exchange_skills">
+        <item>Plumbing</item>
+        <item>Electrical Repair</item>
+        <item>Carpentry</item>
+        <item>Masonry</item>
+        <item>Roof Repair</item>
+        <item>Motor Pump Repair</item>
+        <item>Welding</item>
+        <item>Painting</item>
+        <item>Tailoring</item>
+        <item>Bicycle Repair</item>
+        <item>Mobile Repair</item>
+        <item>Tractor Repair</item>
+        <item>Farm Equipment Service</item>
+        <item>Irrigation Setup</item>
+        <item>Tile Work</item>
+        <item>House Cleaning</item>
+        <item>Cooking / Catering</item>
+        <item>Gardening</item>
+        <item>Computer Basics</item>
+        <item>Tutoring</item>
+    </string-array>
+</resources>
